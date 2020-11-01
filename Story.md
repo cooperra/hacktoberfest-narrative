@@ -1,3 +1,3 @@
-# Hacktoberfest
+# Shitoberfest
 
-Hacktoberfest is a great way for new developers to attempt to contribute to Open-Source projects of all sizes. Participants who make four low-hanging pull requests win a cool T-shirt from Digital Ocean, unless maintainers opt out of the spam. Quantity is necessary, quality varies.
+Shitoberfest is a great way for T-shirt seekers to spam Open-Source maintainers of popular projects. Participants who make four self-approved pull requests win a shameful T-shirt ad from Digital Ocean (or make them plant a tree) at the expense of the community's time and attention, while those who make useful PRs don't get approved in time and get nothing. Quantity is annoying, quality is low.
